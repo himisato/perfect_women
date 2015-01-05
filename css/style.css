@@ -201,11 +201,7 @@ a.banner-btn span:hover {
 .featured_content {
 	background: #f6f6f6;
 }
-.feature_grid{
-	border-right: 1px solid #E6E6E6;
-}
 .feature_grid1 {
-	width: 23.5%;
 	margin-right: 2em;
 	border-right: 1px solid #E6E6E6;
 	padding: 4em 2em 4em 0;
