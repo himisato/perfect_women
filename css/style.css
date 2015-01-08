@@ -27,15 +27,17 @@ body a {
 
 .logo {
 	float: left;
-	margin-top: 5px;
+
 }
 
 .logo img{
 	padding-bottom: 15px;
+	border-right: 30px
 }
 
 .logo li{
 	display: inline-block;
+
 }
 .menu {
 	float: right;
@@ -964,7 +966,7 @@ ul.links li {
 	margin-top: 1em;
 	padding: 8px 20px;
 }
-.pagination__posts {
+.pagination_posts {
 	margin: 2em 0;
 }
 .contact-to input[type="text"] {
@@ -979,4 +981,6 @@ input.text {
 	list-style: none;
 }
 
-.row c
+.row text-left{
+	padding-top: 30px;
+}

@@ -735,7 +735,6 @@ pre code {
 }
 .container {
   padding: 15px;
-  margin: auto;
 }
 @media (min-width: 768px) {
   .container {
