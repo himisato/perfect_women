@@ -20,22 +20,29 @@ body a {
 	-o-transition: 0.5s all;
 	-ms-transition: 0.5s all;
 }
-.header {
+.header_top {
 	background: #fff;
-	padding: 0;
+	height: 30px;
+}
+.heder_midle{
+	background: #7cc4cc;
+	height: 100px;
 }
 
 .logo {
 	float: left;
-
 }
 
 .logo img{
 	padding-bottom: 15px;
-	border-right: 30px
+}
+
+.logo ul{
+	margin-left:-60px;
 }
 
 .logo li{
+	color: #ffffff;
 	display: inline-block;
 
 }
@@ -161,12 +168,10 @@ body a {
 	margin: 0em;
 	letter-spacing: 1px;
 	font-weight: 500;
-	text-transform: uppercase;
 }
 .banner-info p {
 	color: #555;
 	font-size: 1.2em;
-	text-transform: uppercase;
 	font-weight: 500;
 	letter-spacing: 2px;
 	line-height: 1.8em;
